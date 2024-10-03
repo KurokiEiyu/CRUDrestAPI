@@ -1,0 +1,21 @@
+{
+  "name": "latihan1-crud-rest-api-express-mysql",
+  "version": "1.0.0",
+  "description": "Backend API untuk Latihan1",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "author": "MINA",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "latihan1-crud-rest-api-express-mysql": "file:",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
